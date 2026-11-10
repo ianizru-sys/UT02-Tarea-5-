@@ -122,21 +122,18 @@
 
         <div class="grid">
             
-            <!-- Tarjeta 1: Calculadora -->
             <a href="ejercicio1.php" class="card">
                 <div class="icon">🧮</div>
                 <h3>Calculadora Científica</h3>
                 <span>Clases, herencia y excepciones</span>
             </a>
 
-            <!-- Tarjeta 2: Edad -->
             <a href="ejercicio2.php" class="card">
                 <div class="icon">🎂</div>
                 <h3>Comprobar Edad</h3>
                 <span>Uso de formularios ($_POST)</span>
             </a>
 
-            <!-- Tarjeta 3: Números -->
             <a href="ejercicio3.php" class="card">
                 <div class="icon">🔢</div>
                 <h3>Listas de Números</h3>
