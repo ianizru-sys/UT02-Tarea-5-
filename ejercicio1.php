@@ -44,7 +44,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <meta charset="UTF-8">
     <title>Calculadora Científica</title>
 </head>
-<body style="background: linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%); font-family: sans-serif; padding: 20px;">
+<body style="background-color: #d1e8ff; font-family: Arial, sans-serif; padding: 20px;">
 
     <h2>Calculadora Científica</h2>
     <form method="post" action="">
